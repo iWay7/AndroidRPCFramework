@@ -180,8 +180,6 @@ public class RPCEngine {
     public static void initialize(int processorCount);
 
 }
-
-RPCEngine.initialize(2); // 指定内部处理器的数量，控制并发的请求数量。
 ```
 
 ##### 基于以上方法构建一套多系统业务层框架的方法可以详细阅读本示例源码。
