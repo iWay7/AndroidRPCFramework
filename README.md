@@ -1,5 +1,5 @@
 # AndroidRPCFramework
-Android 远程过程调用框架，属于业务层框架，底层基于 URLConnection 实现，易实现多系统兼容。
+Android 远程过程调用框架，属于业务层框架，底层基于 URLConnection 实现，易实现高并发，多系统兼容，完全自定义等。
 
 ### 本应用的示例
 
