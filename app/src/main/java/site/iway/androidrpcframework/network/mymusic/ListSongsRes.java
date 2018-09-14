@@ -1,4 +1,4 @@
-package site.iway.androidrpcframework.network.mymusic.models;
+package site.iway.androidrpcframework.network.mymusic;
 
 import java.util.List;
 

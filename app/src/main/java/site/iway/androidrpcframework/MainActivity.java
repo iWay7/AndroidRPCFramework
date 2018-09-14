@@ -11,8 +11,8 @@ import java.util.Arrays;
 
 import site.iway.androidrpcframework.network.RPCBaseReq;
 import site.iway.androidrpcframework.network.RPCCallback;
-import site.iway.androidrpcframework.network.mymusic.models.ListSongsReq;
-import site.iway.androidrpcframework.network.mymusic.models.ListSongsRes;
+import site.iway.androidrpcframework.network.mymusic.ListSongsReq;
+import site.iway.androidrpcframework.network.mymusic.ListSongsRes;
 
 public class MainActivity extends Activity implements RPCCallback {
 
